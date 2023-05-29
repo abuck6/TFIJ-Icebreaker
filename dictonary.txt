@@ -17,7 +17,7 @@ wettbewerbsfaehig - Competitive
 Mehlhase - Sparks
 Gebaeck - Pastry
 Baeckerei - Bakery
-Hund - Doh
+Hund - Dog
 Doener - a type of meat cooked on a vertical rotisserie
 Apfelkuchen - Apple cake
 Schloss Eltz - Eltz Castle
